@@ -9,6 +9,8 @@ def main():
 
     while valor_inicial + razao < limite:
         valor_inicial = valor_inicial + razao
+        
+        
         print(valor_inicial)
 
 
