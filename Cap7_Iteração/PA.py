@@ -1,4 +1,3 @@
-#Leia as variáveis A0, Limite e R e escreva os valores menores que Limite gerados pela Progressão Aritmética que tem por valor inicial A0 e razão R.
 def main():
     valor_inicial = int(input('Número inicial: '))
     limite = int(input('Limite: '))
