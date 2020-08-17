@@ -5,7 +5,7 @@ def main():
     valor = numero - 1
 
 
-    while valor - 1 > 0:
+    while valor > 0:
         numero = numero * valor
         valor = valor - 1
 
