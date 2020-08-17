@@ -15,5 +15,8 @@ def main():
 
         valor_multiplicado = valor_multiplicado + 1
 
+        
+    print('>>>> Essa é a tabuada de {}'.format(tabuada))
 
+        
 main()
