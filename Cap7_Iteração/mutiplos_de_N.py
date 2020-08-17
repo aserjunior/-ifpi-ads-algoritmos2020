@@ -4,7 +4,7 @@ def main():
     limite_superior = int(input('Limite Superior: '))
 
 
-    multiplos = limite_inferior
+    multiplos = limite_inferior + 1
 
 
     while multiplos < limite_superior:
