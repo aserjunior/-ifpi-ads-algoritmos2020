@@ -1,5 +1,5 @@
 def main():
-    tabuada = int(input('Escolha a tabuada entre 1 e 10: '))
+    tabuada = int(input('Escolha a tabuada de 1 a 10: '))
 
 
     numero_fixo = tabuada
