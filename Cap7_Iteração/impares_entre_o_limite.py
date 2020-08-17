@@ -2,6 +2,7 @@ def main():
     limite_inferior = int(input('Limite Inferior: '))
     limite_superior = int(input('Limite Superior: '))
 
+    
     impares = limite_inferior + 1
 
 
