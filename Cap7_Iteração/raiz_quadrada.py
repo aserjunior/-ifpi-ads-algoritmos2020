@@ -17,7 +17,7 @@ def main():
         quadrado = raiz ** 2
 
 
-    print('>>> O quadrado mais proximo de {} é {} de raiz {}'.format(n, quadrado, raiz))
+    print('>>> O quadrado mais próximo de {} é {} de raiz {}'.format(n, quadrado, raiz))
 
 
 main()
